@@ -9,3 +9,6 @@ Other endpoints:
 2)http://127.0.0.1:8000/restaurant/booking/{booking_id}
 3)http://127.0.0.1:8000/restaurant/menu/
 4)http://127.0.0.1:8000/restaurant/menu/{menu_id}
+
+
+I am using mysql hosted in mysql workbench
